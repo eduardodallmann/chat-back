@@ -1,0 +1,14 @@
+{
+    "files.eol": "\n",
+    "jestrunner.jestCommand": "npm run test --",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.workingDirectories": [
+        "src/"
+    ],
+    "eslint.probe": [
+        "javascript",
+    ],
+    "eslint.debug": true,
+}
