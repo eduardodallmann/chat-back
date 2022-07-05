@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 4203;
 
 const io = new Server(httpServer, {
   cors: {
-    origin: "*",
+    origin: process.env.CORS_FRONT || "http://localhost:3000",
   },
 });
 
