@@ -1,3 +1,3 @@
 # chat-back
 
-Rodar `npm i` depois `npm run dev`
+Clonar o projeto, rodar `npm i` e depois `npm run dev`
